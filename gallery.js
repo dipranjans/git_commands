@@ -1,8 +1,7 @@
-const gallery_1 = "./images/gallery1.png";
-const gallery_exp={};
+const gallery1 = "./images/gallery1.png";
 const gallery2 = "./images/gallery2.png";
 const gallery3 = "./images/gallery3.png";
-let gallery_flowers = [
+let flowers = [
   {
     name: "jasmin",
     image: gallery1
@@ -12,4 +11,15 @@ let gallery_flowers = [
     image: gallery2
   }
 ];
-console.log(gallery);
+console.log(flowers);
+let dogs_animals = [
+  {
+    name: "beagle",
+    age: 1
+  },
+  {
+    name: "pug",
+    age: 3
+  }
+];
+console.log(dogs_animals);
