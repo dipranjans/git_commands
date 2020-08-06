@@ -4,11 +4,13 @@ const gallery3 = "./images/gallery3.png";
 let flowers = [
   {
     name: "jasmin",
-    image: gallery1
+    image: gallery1,
+    location: "bangalore"
   },
   {
     name: "tulip",
-    image: gallery2
+    image: gallery2,
+    location: "delhi"
   }
 ];
 console.log(flowers);
