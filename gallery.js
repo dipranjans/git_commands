@@ -1,1 +1,14 @@
-console.log("welcome to gallery file");
+const gallery1 = "./images/gallery1.png";
+const gallery2 = "./images/gallery2.png";
+const gallery3 = "./images/gallery3.png";
+let gallery = [
+  {
+    name: "rose",
+    image: gallery1
+  },
+  {
+    name: "tulip",
+    image: gallery2
+  }
+];
+console.log(gallery);
