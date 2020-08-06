@@ -1,9 +1,9 @@
 const gallery1 = "./images/gallery1.png";
 const gallery2 = "./images/gallery2.png";
 const gallery3 = "./images/gallery3.png";
-let gallery = [
+let gallery_flowers = [
   {
-    name: "rose",
+    name: "jasmin",
     image: gallery1
   },
   {
